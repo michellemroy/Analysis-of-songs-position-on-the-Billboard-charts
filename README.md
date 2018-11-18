@@ -1,4 +1,4 @@
-# Analysis-of-Son-s-position-on-the-Billboard
+# Analysis-of-song's-position-on-the-Billboard
 A Data Analytics project to analyse the performance of a song on the Billboards charts done using the one Million Song Dataset.
 
 To obtain the one million song dataset please visit : 
